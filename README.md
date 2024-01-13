@@ -14,7 +14,7 @@ Example GUI:
 <br>
 <img src="images/example-GUI.png" alt="Example" width="50%" height="50%">
 
-Any descriptions of operation or the topic covered in the script can be added
+Any descriptions on the topic covered in the script can be added
 
 ## Structure
 
