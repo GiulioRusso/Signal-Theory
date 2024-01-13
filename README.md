@@ -21,6 +21,7 @@ Any description on the topic covered in the script can be added
 The topics already studied correspond to their python scripts name. Here there is the list:
 
 - convolution.ipynb
+- fourier-series.ipynb
 - LTI-response.ipynb
 - signals.ipynb
 
