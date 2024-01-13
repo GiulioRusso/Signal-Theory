@@ -1,9 +1,6 @@
-# Control Theory
+# Signal Theory
 
-This is a free repository with the aim to create usefull interactive python scripts to better understand the topics of the Control Theory
-
-<br>
-<img src="images/unity-feedback-schema.png" alt="Controller Schema" width="50%" height="50%">
+This is a free repository with the aim to create usefull interactive python scripts to better understand the topics of the Signal Theory
 
 ## Rules
 
@@ -21,15 +18,8 @@ Example GUI:
 
 The topics already studied correspond to their python notebook name. Here there is the list:
 
-- bode.ipynb
-- corrective-network.ipynb
-- nichols.ipynb
-- nyquist.ipynb
-- PID.ipynb
-- response.ipynb
-- root-locus.ipynb
-- stability.ipynb
-- steady-state-error.ipynb
+- convolution.ipynb
+- signals.ipynb
 
 All the images needed in the description of the python notebook are in the folder:
 
